@@ -5,7 +5,7 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'My To-do App',
+  title: 'Tracka App',
   description: 'Simple and efficient, keeps you productive',
 };
 
